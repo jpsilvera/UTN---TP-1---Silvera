@@ -1,0 +1,9 @@
+29943234,Alvarez Facundo,M,8,2,90.5
+27563123,Fernandez Alberto,M,7,10,80.5
+30452866,Arastemburu Federico,M,9,9,100
+29876538,Iparra Marcos,M,10,10,98.5
+28782737,Enriquez Marcelo,M,6,7,70.5
+27838388,Benitez Martin,M,1,9,80.5
+30384382,Perez Marina,F,4,9,93.5
+31324832,Garcia Cintia,F,9,8,90.5
+26485454,Sanchez Silvina,F,9,10,100
